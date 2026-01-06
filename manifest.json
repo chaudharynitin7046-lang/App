@@ -1,0 +1,32 @@
+
+{
+  "name": "Momai Cattelfood Ledger",
+  "short_name": "Momai Ledger",
+  "description": "Smart payment and sales tracking for NITINBHAI MEGHARAJBHAI CHAUDHARI business.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#ea580c",
+  "categories": ["business", "finance"],
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3022/3022510.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3022/3022510.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3022/3022510.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
